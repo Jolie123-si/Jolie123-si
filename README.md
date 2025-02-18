@@ -8,7 +8,7 @@
   <img src="https://github.com/Jolie123-si/Jolie123-si/blob/main/Jolie-removebg-preview.png" alt=" sifa image" width="200" />
 </p>
 
-<h1 align="center">Hello, I'm <a href="https://github.com/Jolie123-si">Sifa Jolly Blandine</a>!</h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/Jolie123-si">Jolie</a>!</h1>
 <h3 align="center">Software Engineering | UI/UX Designer | Cisco & NetOps Enthusiast | ALX Ventures</h3>
 
 <!-- LinkedIn & GitHub Badges -->
