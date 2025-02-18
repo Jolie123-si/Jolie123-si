@@ -5,7 +5,6 @@
 
 <!-- Banner or Profile Header (Optional) -->
 <p align="center">
-  <img src="https://github.com/Jolie123-si/Jolie123-si/blob/main/Jolie-removebg-preview.png" alt=" sifa image" width="200" />
 </p>
 
 <h1 align="center">Hello, I'm <a href="https://github.com/Jolie123-si">Jolie</a>!</h1>
