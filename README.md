@@ -88,7 +88,7 @@ I am a **2nd-year Software Engineering student** passionate about designing intu
 
 - **LinkedIn**: [Sifa Jolly Blandine](https://www.linkedin.com/in/sifa-jolly-blandine-02076130a/)
 - **GitHub**: [Jolie123-si](https://github.com/Jolie123-si)
-- **Email**: sifajolieblandine@gmail.com(mailto:sifajolieblandine@gmail.com)
+- **Email**: sifajolieblandine@gmail.com
 
 ---
 
