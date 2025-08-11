@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hello, I'm <a href="https://github.com/Jolie123-si">Jolie</a>!</h1>
-<h3 align="center">Software Engineering | UI/UX Designer | Cisco & NetOps Enthusiast | ALX Ventures</h3>
+<h3 align="center">Software Engineerer | UI/UX Designer</h3>
 
 <!-- LinkedIn & GitHub Badges -->
 <p align="center">
