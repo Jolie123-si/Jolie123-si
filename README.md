@@ -12,7 +12,7 @@
 
 <!-- LinkedIn & GitHub Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sifa-jolly-blandine-02076130a/" target="_blank">
+  <a href="https://www.linkedin.com/in/sifa-jolie-blandine-02076130a/" target="_clickable">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Jolie123-si" target="_blank">
